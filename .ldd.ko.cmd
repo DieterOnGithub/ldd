@@ -1,0 +1,1 @@
+cmd_/home/dizzi/Code/C/ldd/ldd.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/dizzi/Code/C/ldd/ldd.ko /home/dizzi/Code/C/ldd/ldd.o /home/dizzi/Code/C/ldd/ldd.mod.o;  true
